@@ -1,0 +1,10 @@
+C:\Users\janma\OneDrive\Plocha\String_ukol_1\String_ukol_1\bin\Debug\String_ukol_1.exe.config
+C:\Users\janma\OneDrive\Plocha\String_ukol_1\String_ukol_1\bin\Debug\String_ukol_1.exe
+C:\Users\janma\OneDrive\Plocha\String_ukol_1\String_ukol_1\bin\Debug\String_ukol_1.pdb
+C:\Users\janma\OneDrive\Plocha\String_ukol_1\String_ukol_1\obj\Debug\String_ukol_1.csproj.AssemblyReference.cache
+C:\Users\janma\OneDrive\Plocha\String_ukol_1\String_ukol_1\obj\Debug\String_ukol_1.Form1.resources
+C:\Users\janma\OneDrive\Plocha\String_ukol_1\String_ukol_1\obj\Debug\String_ukol_1.Properties.Resources.resources
+C:\Users\janma\OneDrive\Plocha\String_ukol_1\String_ukol_1\obj\Debug\String_ukol_1.csproj.GenerateResource.cache
+C:\Users\janma\OneDrive\Plocha\String_ukol_1\String_ukol_1\obj\Debug\String_ukol_1.csproj.CoreCompileInputs.cache
+C:\Users\janma\OneDrive\Plocha\String_ukol_1\String_ukol_1\obj\Debug\String_ukol_1.exe
+C:\Users\janma\OneDrive\Plocha\String_ukol_1\String_ukol_1\obj\Debug\String_ukol_1.pdb
